@@ -9,13 +9,13 @@
 
 ```                                                    
                             .s.s.                                       
-                         , `'`Y8bso.                      MY NAME IS KRZYSZTOF IM currently studying 
-                       ,d88bso y'd8l                              
-                       "`,8K j8P?*?b.
-                      ,bonsai_`o.o
-                 ,r.osbJ--','  e8b?Y..
+                         , `'`Y8bso.     I'm a student at Jagiellonian University, studying Computer Science
+                       ,d88bso y'd8l                         
+                       "`,8K j8P?*?b.             - familiar with python, c++, javascript and more   
+                      ,bonsai_`o.o          
+                 ,r.osbJ--','  e8b?Y..            - pasionate about calistenics,chess and competetive programing
                 j*Y888P*{ `._.-'" 888b
-                  `"'``,.`'-. `"*?*P"
+                  `"'``,.`'-. `"*?*P"             - does his best to improve everyday
                    db8sld-'., ,):5ls.
               <sd88P,-d888P'd888d8888Rdbc
               `"*J*CJ8*d8888l:'  ``88?bl.o
@@ -32,6 +32,8 @@
                 :                        '   :
                  \-..  .. .. . . . . .     ,/
               .-<=:`._____________________,'.:>-.
-              L______                        ___
+              L______                        ____|
                      ```````````````````````` 
 ````
+
+## [**`contact`**](mailto:krzysztof99c@gmail.com?subject=) [**`chess.com`**](https://www.chess.com/member/justedizi) [**`codeforcess`**](https://codeforces.com/profile/Justedizi)
