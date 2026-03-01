@@ -7,8 +7,3 @@
 
 ```
 
-                                                 
-
-````
-
-## [**`contact`**](mailto:krzysztof99c@gmail.com?subject=) [**`chess.com`**](https://www.chess.com/member/justedizi) [**`codeforcess`**](https://codeforces.com/profile/Justedizi)
